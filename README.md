@@ -4,12 +4,13 @@ I am a postdoc majored in AI at Peking University.  Currently, I work at [*Beiji
 
 ### Research
 
-My research interests lie on Intuitive Theory in Cognitive Science. Currently, I work with [*Yixin Zhu*](https://www.yzhu.io/) on Violation of Expectation projects for intuitive physics.
+My research interests lie on Intuitive Theory in Cognitive Science. Currently, I work with [*Yixin Zhu*](https://www.yzhu.io/) on Violation of Expectation (VoE) projects for intuitive physics.
 
-### Background
-
-
+Intuitive physics is not really physics, but refers to the initial and fundamental human cognition of the world. I focus on how to build a machine to learn intuitive physical knowledge with human-like performance. This research not only helps to build a machine that thinks like a people, but also helps us to learn more about possible human cognitive simulations.
 
 ### Publications
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. *"Tensor force role in β decays analyzed within the Gogny-interaction shell model."*  **B. Dai**, B. S. Hu, Y. Z. Ma, J. G. Li, S. M. Wang, C. W. Johnson, and F. R. Xu. Phys. Rev. C 103, 064327 (2021)
+2. *“Population dynamics of molecular nitrogen initiated by intense femtosecond laser pulses.”* Peng Wang, Chengyin Wu, Mingwei Lei, **Bo Dai**, Hong Yang, Hongbing Jiang, and Qihuang Gong. Phys. Rev. A 92, 063412 (2015).
+3. 
+
