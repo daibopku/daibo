@@ -12,5 +12,4 @@ Intuitive physics is not really physics, but refers to the initial and fundament
 
 1. *"Tensor force role in β decays analyzed within the Gogny-interaction shell model."*  **B. Dai**, B. S. Hu, Y. Z. Ma, J. G. Li, S. M. Wang, C. W. Johnson, and F. R. Xu. Phys. Rev. C 103, 064327 (2021)
 2. *“Population dynamics of molecular nitrogen initiated by intense femtosecond laser pulses.”* Peng Wang, Chengyin Wu, Mingwei Lei, **Bo Dai**, Hong Yang, Hongbing Jiang, and Qihuang Gong. Phys. Rev. A 92, 063412 (2015).
-3. 
 
